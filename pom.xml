@@ -71,13 +71,11 @@
 			<groupId>com.netappsid.com.jgoodies</groupId>
 			<artifactId>com.netappsid.com.jgoodies.binding</artifactId>
 			<version>2.0.6</version>
-			<type>bundle</type>
 		</dependency>
 		<dependency>
 			<groupId>com.netappsid</groupId>
 			<artifactId>com.netappsid.observable</artifactId>
 			<version>1.2.4-SNAPSHOT</version>
-			<type>bundle</type>
 		</dependency>
 		<dependency>
 			<groupId>org.hamcrest</groupId>
@@ -89,14 +87,12 @@
 			<groupId>com.netappsid.test.tools</groupId>
 			<artifactId>com.netappsid.test.tools</artifactId>
 			<version>2.1.2-SNAPSHOT</version>
-			<type>bundle</type>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.netappsid</groupId>
 			<artifactId>com.netappsid.validate</artifactId>
 			<version>1.2.0</version>
-			<type>bundle</type>
 		</dependency>
 		<dependency>
 			<groupId>org.jukito</groupId>
